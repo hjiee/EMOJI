@@ -3,10 +3,12 @@
 :pushpin: 사용법
  * : : 사이에 넣고자하는 이모티콘 글귀를 넣어주면 된다. :smiley:
 
+
+
 <br></br>
 
 
-## People
+## :paperclip: People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
@@ -75,7 +77,7 @@
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-## Nature
+## :paperclip: Nature
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |---|---|---|
@@ -118,7 +120,7 @@
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-## Objects
+## :paperclip: Objects
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |---|---|---|
@@ -209,7 +211,7 @@
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-## Places
+## :paperclip: Places
 
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 |---|---|---|
@@ -249,7 +251,7 @@
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-## Symbols
+## :paperclip: Symbols
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 |---|---|---|
