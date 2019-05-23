@@ -1,4 +1,4 @@
-# EMOJI
+# EMOJIS
 
 :pushpin: 사용법
  * : : 사이에 넣고자하는 이모티콘 글자를 넣어주면 됩니다. :smiley:  
