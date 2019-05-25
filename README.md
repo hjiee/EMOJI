@@ -5,6 +5,7 @@
 
 :pushpin: 참조
  * :link: https://emojipedia.org/
+ * :link: https://github.com/onmyway133/emoji
 
 
 <br></br>
